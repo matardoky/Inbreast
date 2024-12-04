@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=inbreast
+POSTGRES_USER=DtErPCCyoMuMbJtYvtNBjfmKGyFYgeTh
+POSTGRES_PASSWORD=ef8GDphLvNqkucF6QOxlfrT42OI6RWPEQUF4Z7pvikiXBMKN0u5a2u0OJbwcrtc8
